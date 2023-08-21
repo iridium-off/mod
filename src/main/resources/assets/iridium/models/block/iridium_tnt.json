@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "iridium:blocks/iridium_tnt_bottom",
+    "top": "iridium:blocks/iridium_tnt_top",
+    "side": "iridium:blocks/iridium_tnt_side"
+  }
+}
